@@ -1,0 +1,39 @@
+/* # is for id, . is for class, name is for element*/
+
+#spacer {
+    height: 5%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35pt;
+    color: white;
+}
+
+#bar-label {
+    font-size: 8pt;
+    font-family: monospace;
+}
+
+#defcon-label {
+    text-align:"center"
+}
+
+#essay-content {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+    color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+    background-color:#42587C;
+}
